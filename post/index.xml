@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo Theme</title>
-    <link>https://lllpoiuy.github.io/yheslni-/post/</link>
+    <link>https://lllpoiuy.github.io/yheslni/post/</link>
     <description>Recent content in Posts on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2021, @lllpoiuy</copyright>
     <lastBuildDate>Sat, 30 Oct 2021 15:52:23 +0800</lastBuildDate>
     
-        <atom:link href="https://lllpoiuy.github.io/yheslni-/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lllpoiuy.github.io/yheslni/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://lllpoiuy.github.io/yheslni-/post/test/</link>
+      <link>https://lllpoiuy.github.io/yheslni/post/test/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lllpoiuy.github.io/yheslni-/post/test/</guid>
+      <guid>https://lllpoiuy.github.io/yheslni/post/test/</guid>
       <description>2021 Noi.ac 省选专题营 Day 1 笔记 时间：20210811 讲师：冯哲 专题：分治、分块、构造
 1.1 分治：  1.1.1 定义：将原问题 $P$ 分为若干个子问题 $P1,\cdots,Pk$（一般来说原问题 $P$ 和现问题 $P_i$ 具有相同或者类似的问题模式）；然后解决 $P_i$ 之间存在的相互之间依赖关系，分别处理每个子问题；最后用每个子问题的解解决原问题。
 1.1.2 分类：
@@ -27,10 +27,10 @@
     
     <item>
       <title>Test2</title>
-      <link>https://lllpoiuy.github.io/yheslni-/post/test2/</link>
+      <link>https://lllpoiuy.github.io/yheslni/post/test2/</link>
       <pubDate>Sat, 30 Oct 2021 15:52:23 +0800</pubDate>
       
-      <guid>https://lllpoiuy.github.io/yheslni-/post/test2/</guid>
+      <guid>https://lllpoiuy.github.io/yheslni/post/test2/</guid>
       <description>this is a test.
 $\sum$</description>
     </item>
