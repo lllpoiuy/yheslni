@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021 on Hugo Theme</title>
-    <link>/archives/2021/</link>
+    <link>https://lllpoiuy.github.io/yheslni-/archives/2021/</link>
     <description>Recent content in 2021 on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2021, @lllpoiuy</copyright>
     <lastBuildDate>Sat, 30 Oct 2021 15:52:23 +0800</lastBuildDate>
     
-        <atom:link href="/archives/2021/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lllpoiuy.github.io/yheslni-/archives/2021/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test2</title>
-      <link>/post/test2/</link>
+      <link>https://lllpoiuy.github.io/yheslni-/post/test2/</link>
       <pubDate>Sat, 30 Oct 2021 15:52:23 +0800</pubDate>
       
-      <guid>/post/test2/</guid>
+      <guid>https://lllpoiuy.github.io/yheslni-/post/test2/</guid>
       <description>this is a test.
 $\sum$</description>
     </item>
