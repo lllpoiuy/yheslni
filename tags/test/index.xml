@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Hugo Theme</title>
+    <link>lllpoiuy.github.io/yheslni/tags/test/</link>
+    <description>Recent content in test on Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, @JeffProd</copyright>
+    <lastBuildDate>Sat, 30 Oct 2021 15:52:23 +0800</lastBuildDate>
+    
+        <atom:link href="lllpoiuy.github.io/yheslni/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test2</title>
+      <link>lllpoiuy.github.io/yheslni/post/test2/</link>
+      <pubDate>Sat, 30 Oct 2021 15:52:23 +0800</pubDate>
+      
+      <guid>lllpoiuy.github.io/yheslni/post/test2/</guid>
+      <description>this is a test.
+$\sum$</description>
+    </item>
+    
+  </channel>
+</rss>

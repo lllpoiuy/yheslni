@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Theme</title>
+    <link>lllpoiuy.github.io/yheslni/</link>
+    <description>Recent content on Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, @JeffProd</copyright>
+    <lastBuildDate>Sat, 30 Oct 2021 15:52:23 +0800</lastBuildDate>
+    
+        <atom:link href="lllpoiuy.github.io/yheslni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>lllpoiuy.github.io/yheslni/post/</link>
+      <pubDate>Sat, 30 Oct 2021 15:52:23 +0800</pubDate>
+      
+      <guid>lllpoiuy.github.io/yheslni/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About yheslni</title>
+      <link>lllpoiuy.github.io/yheslni/about/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>lllpoiuy.github.io/yheslni/about/</guid>
+      <description>Hello, my name is yheslni, a girl from China at 16.
+I&amp;rsquo;m studying CS in Affiliated High School of Fujian Normal University.
+I&amp;rsquo;m interested in math, literature, politics, pingpong, anime and so on, so this blog will be mainly about them.</description>
+    </item>
+    
+  </channel>
+</rss>

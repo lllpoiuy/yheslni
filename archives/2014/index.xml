@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014 on Hugo Theme</title>
+    <link>lllpoiuy.github.io/yheslni/archives/2014/</link>
+    <description>Recent content in 2014 on Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, @JeffProd</copyright>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="lllpoiuy.github.io/yheslni/archives/2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>lllpoiuy.github.io/yheslni/post/test/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>lllpoiuy.github.io/yheslni/post/test/</guid>
+      <description>2021 Noi.ac 省选专题营 Day 1 笔记 时间：20210811 讲师：冯哲 专题：分治、分块、构造
+1.1 分治：  1.1.1 定义：将原问题 $P$ 分为若干个子问题 $P1,\cdots,Pk$（一般来说原问题 $P$ 和现问题 $P_i$ 具有相同或者类似的问题模式）；然后解决 $P_i$ 之间存在的相互之间依赖关系，分别处理每个子问题；最后用每个子问题的解解决原问题。
+1.1.2 分类：
+ 直接分治，如归并排序、卷积等，直接用子问题的解得出原问题的解。 CDQ 分治：须处理两个子问题之间的贡献，再往下递归求出每个叶子结点权值的分治。 计数分治：常用于统计满足每个条件的区间个数（将其转化为计算跨过中线的区间个数） 线段树分治：用于解决“补集”类的问题。   1.2 主定理： 主定理用于计算如下递推式的复杂度： $$ T(n)=a\cdot T\left( \frac nb \right) +f(n) $$
+  当 $f(n)=n^{\log_b{a}-\epsilon}$ 时：$T(n)=O(n^{\log_{b}a})$。 当 $f(n)=n^{\log_ba}$ 时：$T(n)=O(n^{\log_ba}\cdot\log{n})$。 当 $f(n)=n^{\log_b{a}+\epsilon}$ 时：$T(n)=O(f(n))$。   对于二分式的分治，$\log_2{2}=1$，于是就直接添上一个 $\log$ 即可。
+1.3 分治例题精选： 1.3.1 分治乘法 对应于第一类的分治；注意：当分治中的 $a&amp;gt;2$ 时可能会严重影响复杂度，需要对着 $a$ 大力卡常。
+1.3.2 [WF2011] Machine Works  一个公司获得了一个厂房 $n\in(0,10^5)$ 天的使用权和一笔启动资金 $C(10^9)$，准备在 $n$ 天里租借机器生产来获得收益</description>
+    </item>
+    
+  </channel>
+</rss>
